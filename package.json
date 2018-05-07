@@ -1,0 +1,15 @@
+{
+  "name": "frontend-dev-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Syntax to mimic frontendev eclipse theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/bradstw/frontend-dev-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
